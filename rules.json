@@ -1,0 +1,20 @@
+{
+  "system_status": "active",
+  "targets": {
+    "delete_keys": [
+      "draft", 
+      "canvas_config", 
+      "vedit_segment_info", 
+      "vedit_project", 
+      "edit_common_info"
+    ],
+    "force_values": {
+      "cloud_edit_is_use_video_canvas": false,
+      "post_type": 3
+    },
+    "deep_clean_roots": [
+      "vedit_common_info",
+      "feature_common_info_list"
+    ]
+  }
+}
