@@ -5,18 +5,6 @@
     "en": "System is under maintenance. Please try again later.",
     "ru": "Система находится на обслуживании. Пожалуйста, попробуйте позже."
   },
-  "announcement": {
-    "show": true,
-    "text": "📢 DİKKAT: TikTok güncellemesi geldi! Yeni sürüm hazırlanıyor.",
-    "link": "https://t.me/kuronai60",
-    "color": "#FE2C55"
-  },
-
-  "features": {
-    "f_60fps": false,
-    "f_lossless": true,
-    "f_promo": true
-  },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
 }
