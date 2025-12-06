@@ -1,4 +1,10 @@
 {
+  "system_status": "locked", 
+  "lock_message": {
+    "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
+    "en": "System is under maintenance. Please try again later.",
+    "ru": "Система находится на обслуживании. Пожалуйста, попробуйте позже."
+  },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
 }
