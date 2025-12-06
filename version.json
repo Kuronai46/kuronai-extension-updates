@@ -13,7 +13,7 @@
   },
 
   "features": {
-    "f_60fps": true,
+    "f_60fps": false,
     "f_lossless": true,
     "f_promo": true
   },
