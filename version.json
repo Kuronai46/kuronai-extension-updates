@@ -5,18 +5,9 @@
     "en": "System is under maintenance. Please try again later.",
     "ru": "Система находится на обслуживании. Пожалуйста, попробуйте позже."
   },
-  "announcement": {
-    "show": true,
-    "text": "🔥 TİKTOK ALGORİTMASI GÜNCELLENDİ! YENİ AYARLARI GÖRMEK İÇİN TIKLA.",
-    "link": "https://t.me/kuronai60",
-    "bg_color": "rgba(254, 44, 85, 0.15)",
-    "border_color": "#FE2C55",
-    "text_color": "#ffadad",
-    "icon": "📢"
-  },
   "social_links": {
-    "tiktok": "https://www.tiktok.com/@.kuronai",
-    "telegram": "https://t.me/kuronai60"
+    "tiktok": "https://www.tiktok.com/@nuyuki",
+    "telegram": "https://t.me/aaaa"
   },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
