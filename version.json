@@ -11,8 +11,12 @@
     "telegram": "https://t.me/kuronai60"
   },
   "security": {
-    "locked_user_ids": [".kuronai"],
-    "ban_message": "Bu hesap erişim engeli yemiştir. İletişim: @kuronai"
+    "locked_user_ids": ["kotu_kullanici", "hacker_123"],
+    "ban_message": {
+      "tr": "Bu cihaz güvenlik ihlali nedeniyle kalıcı olarak engellenmiştir.",
+      "en": "This device has been permanently banned due to security violation.",
+      "ru": "Это устройство было навсегда заблокировано из-за нарушения безопасности."
+    }
   },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
