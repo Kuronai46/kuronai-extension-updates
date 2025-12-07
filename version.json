@@ -10,6 +10,10 @@
     "tiktok": "https://www.tiktok.com/@.kuronai", 
     "telegram": "https://t.me/kuronai60"
   },
+  "security": {
+    "locked_user_ids": [".kuronai"],
+    "ban_message": "Bu hesap erişim engeli yemiştir. İletişim: @kuronai"
+  },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
 }
