@@ -9,6 +9,17 @@
     "tiktok": "https://www.tiktok.com/@.kuronai",
     "telegram": "https://t.me/kuronai60"
   },
+  "announcement": {
+    "id": "msg_2025_01", 
+    "active": true,
+    "type": "warning", 
+    "message": {
+      "tr": "TikTok algoritması güncellendi. 60FPS modu bakımdadır.",
+      "en": "TikTok updated algorithm. 60FPS mode is under maintenance.",
+      "ru": "Алгоритм TikTok обновлен. Режим 60FPS на обслуживании."
+    },
+    "link": "https://t.me/kuronai60" 
+  },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
 }
