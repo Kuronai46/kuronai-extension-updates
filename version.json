@@ -13,8 +13,8 @@
   "security": {
     "locked_user_ids": ["kotu_kullanici", "hacker_123"],
     "ban_message": {
-      "tr": "Bu cihaz güvenlik ihlali nedeniyle kalıcı olarak engellenmiştir.",
-      "en": "This device has been permanently banned due to security violation.",
+      "tr": "Bu cihaz güvenlik ihlali nedeniyle kalıcı olarak engellenmiştir. Lütfen İletişime Geçin",
+      "en": "This device has been permanently banned due to security violation.Please Contact the Support",
       "ru": "Это устройство было навсегда заблокировано из-за нарушения безопасности."
     }
   },
