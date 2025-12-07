@@ -9,6 +9,11 @@
     "tiktok": "https://www.tiktok.com/@.kuronai",
     "telegram": "https://t.me/kuronai60"
   },
+  "announcement": {
+    "active": true,
+    "text": "🔴 DİKKAT: TikTok altyapı çalışması var, indirmeler yavaş olabilir.",
+    "color": "#FE2C55" 
+  },
   "version": "4.0.0",
   "url": "https://t.me/kuronai60"
 }
