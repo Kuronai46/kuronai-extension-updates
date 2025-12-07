@@ -1,5 +1,5 @@
 {
-  "system_status": "active", 
+  "system_status": "locked", 
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "System is under maintenance. Please try again later.",
@@ -9,14 +9,6 @@
   "social_links": {
     "tiktok": "https://www.tiktok.com/@.kuronai", 
     "telegram": "https://t.me/kuronai60"
-  },
-  "security": {
-    "locked_user_ids": ["kotu_kullanici", "hacker_123"],
-    "ban_message": {
-      "tr": "Bu cihaz güvenlik ihlali nedeniyle kalıcı olarak engellenmiştir. Lütfen İletişime Geçin",
-      "en": "This device has been permanently banned due to security violation.Please Contact the Support",
-      "ru": "Это устройство было навсегда заблокировано из-за нарушения безопасности."
-    }
   },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
