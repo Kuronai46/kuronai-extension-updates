@@ -5,6 +5,11 @@
     "en": "System is under maintenance. Please try again later.",
     "ru": "Система находится на обслуживании. Пожалуйста, попробуйте позже."
   },
+
+  "social_links": {
+    "tiktok": "https://www.tiktok.com/@.kuronai", 
+    "telegram": "https://t.me/kuronai60"
+  },
   "version": "3.6.2",
   "url": "https://t.me/kuronai60"
 }
