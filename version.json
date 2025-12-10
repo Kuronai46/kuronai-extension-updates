@@ -10,14 +10,10 @@
     "telegram": "https://t.me/kuronai60"
   },
   "banned_users": [
-    "kotu_kullanici",
-    "spammer_hesap",
-    "deneme1",
-    ".kuronai"
+    "qblack.qq",
   ],
   "banned_ids": [
-    "K-ORNEKID123",
-    "K-TESTID456"
+
   ],
   "version": "4.0.0",
   "url": "https://t.me/kuronai60"
