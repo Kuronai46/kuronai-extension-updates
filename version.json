@@ -13,6 +13,10 @@
     "qblack.qq",
     "niozfx"
   ],
+  "banned_devices": [
+    "ID-X7Z9A2", 
+    "ID-B4M1L8"
+  ],
 "ban_message": {
     "tr": "Bu eklentiye erişiminiz kalıcı olarak engellenmiştir.",
     "en": "Your access to this extension has been permanently revoked.",
