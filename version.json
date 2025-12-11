@@ -10,6 +10,10 @@
     "telegram": "https://t.me/kuronai60"
   },
 
+  "banned_ids": [
+    "K-1M2D0" 
+  ],
+
 "ban_message": {
     "tr": "Bu eklentiye erişiminiz kalıcı olarak engellenmiştir.",
     "en": "Your access to this extension has been permanently revoked.",
