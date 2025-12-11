@@ -14,10 +14,10 @@
     "K-1M2D0" 
   ],
 
-"ban_message": {
-    "tr": "Bu eklentiye erişiminiz kalıcı olarak engellenmiştir.",
-    "en": "Your access to this extension has been permanently revoked.",
-    "ru": "Ваш доступ к этому расширению был навсегда отозван."
+"ban_reason": {
+    "tr": "Cihazınız kalıcı olarak yasaklandı. İtiraz için desteğe ulaşın.",
+    "en": "Your device has been permanently banned. Contact support for appeal.",
+    "ru": "Ваше устройство было навсегда заблокировано. Свяжитесь с поддержкой."
   },
   "version": "4.1.0",
   "url": "https://t.me/kuronai60"
