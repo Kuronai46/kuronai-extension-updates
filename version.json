@@ -1,5 +1,5 @@
 {
-  "system_status": "locked",
+  "system_status": "active",
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "System is under maintenance. Please try again later.",
@@ -9,14 +9,7 @@
     "tiktok": "https://www.tiktok.com/@.kuronai",
     "telegram": "https://t.me/kuronai60"
   },
-  "banned_users": [
-    "qblack.qq",
-    "niozfx"
-  ],
-  "banned_devices": [
-    "ID-X7Z9A2", 
-    "ID-B4M1L8"
-  ],
+
 "ban_message": {
     "tr": "Bu eklentiye erişiminiz kalıcı olarak engellenmiştir.",
     "en": "Your access to this extension has been permanently revoked.",
