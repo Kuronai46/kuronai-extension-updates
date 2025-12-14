@@ -13,7 +13,9 @@
   "banned_ids": [
     "" 
   ],
-
+ "admin_ids":{
+   "K-5S9JZ"
+ },
 "ban_reason": {
     "tr": "Cihazınız kalıcı olarak yasaklandı. İtiraz için desteğe ulaşın.",
     "en": "Your device has been permanently banned. Contact support for appeal.",
