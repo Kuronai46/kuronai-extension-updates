@@ -14,15 +14,12 @@
     "" 
   ],
   "admin_ids": [
-    "K-2LZ8P",
-    "K-HJD5U",
-    "K-SM1JB"
   ],
 "ban_reason": {
     "tr": "Cihazınız kalıcı olarak yasaklandı. İtiraz için desteğe ulaşın.",
     "en": "Your device has been permanently banned. Contact support for appeal.",
     "ru": "Ваше устройство было навсегда заблокировано. Свяжитесь с поддержкой."
   },
-  "version": "4.2.0",
+  "version": "4.2.1",
   "url": "https://t.me/kuronai60"
 }
