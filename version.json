@@ -1,5 +1,5 @@
 {
-  "system_status": "locked",
+  "system_status": "active",
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "System is under maintenance. Please try again later.",
@@ -23,6 +23,6 @@
     "en": "Your device has been permanently banned. Contact support for appeal.",
     "ru": "Ваше устройство было навсегда заблокировано. Свяжитесь с поддержкой."
   },
-  "version": "4.2.0",
+  "version": "4.2.1",
   "url": "https://t.me/kuronai60"
 }
