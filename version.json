@@ -9,13 +9,12 @@
     "tiktok": "https://www.tiktok.com/@.kuronai",
     "telegram": "https://t.me/kuronai60"
   },
-
   "banned_ids": [
-    "" 
+    "",
+    "K-IKTZB"
   ],
-  "admin_ids": [
-  ],
-"ban_reason": {
+  "admin_ids": [],
+  "ban_reason": {
     "tr": "Cihazınız kalıcı olarak yasaklandı. İtiraz için desteğe ulaşın.",
     "en": "Your device has been permanently banned. Contact support for appeal.",
     "ru": "Ваше устройство было навсегда заблокировано. Свяжитесь с поддержкой."
