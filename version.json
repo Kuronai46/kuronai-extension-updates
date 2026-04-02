@@ -1,5 +1,5 @@
 {
-  "system_status": "locked",
+  "system_status": "active",
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "System is under maintenance. Please try again later.",
