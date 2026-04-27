@@ -1,8 +1,8 @@
 {
-  "system_status": "active",
+  "system_status": "locked",
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
-    "en": "System is under maintenance. Please try again later.",
+    "en": "Access restricted due to unauthorized sales. Get Editing News Premium with code: Kuronai10\nCode: K-99",
     "ru": "Система находится на обслуживании. Пожалуйста, попробуйте позже."
   },
   "social_links": {
