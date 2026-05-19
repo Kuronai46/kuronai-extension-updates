@@ -1,6 +1,6 @@
 {
   "system_status": "Locked",
-  "is_120fps_patched": false,
+  "is_120fps_patched": true,
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "Extension is Updating... nCode: K-99",
