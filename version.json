@@ -1,6 +1,6 @@
 {
-  "system_status": "Locked",
-  "is_120fps_patched": true,
+  "system_status": "active",
+  "is_120fps_patched": false,
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "New Method Coming Just Wait Extension is Updating... /nCode: K-99",
