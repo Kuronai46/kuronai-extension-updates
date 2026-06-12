@@ -1,6 +1,6 @@
 {
   "system_status": "active",
-  "is_120fps_patched": false,
+  "is_120fps_patched": true,
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "I am currently disabling the Extension. Because Method is Fixed /nCode: K-99",
