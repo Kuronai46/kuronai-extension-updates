@@ -1,5 +1,5 @@
 {
-  "system_status": "locked",
+  "system_status": "active",
   "is_120fps_patched": false,
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
@@ -25,6 +25,6 @@
     "en": "Your device has been permanently banned. Contact support for appeal.",
     "ru": "Ваше устройство было навсегда заблокировано. Свяжитесь с поддержкой."
   },
-  "version": "5.4.1",
+  "version": "5.4.2",
   "url": "https://t.me/kuronai60"
 }
