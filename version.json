@@ -1,6 +1,6 @@
 {
   "system_status": "active",
-  "is_120fps_patched": false,
+  "is_120fps_patched": true,
   "lock_message": {
     "tr": "Sistem şu an bakımda. Lütfen daha sonra tekrar deneyin.",
     "en": "Maintenance work. The plugin and app will be back online shortly. Thank you for your patience!... /nCode: K-99",
